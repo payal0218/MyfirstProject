@@ -11,6 +11,7 @@ public class Demo {
 		list.add("collection framework");
 		list.add("Database");
 		list.add("git");
+		list.add("JDBC");
 		System.out.println(list);
 	}
 	public static void main(String[] args)
